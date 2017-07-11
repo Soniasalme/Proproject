@@ -12,4 +12,4 @@
 
 * git commit -m "MENSAJE DESCRIPTIVO DE LOS CAMBIOS"
 
-?[Niñograsioso](images/black.gif)
+![Niñograsioso](images/black.gif)
